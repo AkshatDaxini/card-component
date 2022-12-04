@@ -6,7 +6,7 @@ const Card = () => {
         <div className="container">
             <div className="card">
                 <div className="card-content">
-                    <img src={avatar}/><br />
+                    <img src={avatar} alt="Profile"/><br />
                     <div className="text-zone">
                         <span>Akshat Daxini</span>
                         <p>Some random things about yourself </p>
@@ -17,7 +17,7 @@ const Card = () => {
 
             <div className="card">
                 <div className="card-content">
-                    <img src={avatar2} alt="Profile image" /><br />
+                    <img src={avatar2} alt="Profile" /><br />
                     <div className="text-zone">
                         <span>Arpi Kothari</span>
                         <p>Some random things about yourself </p>
