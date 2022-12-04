@@ -17,7 +17,7 @@
     background-color: black;
     text-align: center;
     width: 200px;
-    border-radius: 10%;
+    border-radius: 15%;
     border: 1px white solid;
 }
 
@@ -42,6 +42,7 @@
     font-weight: 600;
     letter-spacing: 2px;
     border: 1px solid black;
+    border-radius: 10%;
 }
 
 .btn-portfolio:hover{
