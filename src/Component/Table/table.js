@@ -6,7 +6,7 @@ const Card = () => {
         <div className="container">
             <div className="card">
                 <div className="card-content">
-                    <img src={avatar} alt="Profile image" /><br />
+                    <img src={avatar}/><br />
                     <div className="text-zone">
                         <span>Akshat Daxini</span>
                         <p>Some random things about yourself </p>
