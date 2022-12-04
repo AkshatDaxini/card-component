@@ -12,7 +12,7 @@
 
 .card{
     height: fit-content;
-    box-shadow: 5px 6px rgb(196, 195, 195);
+    box-shadow: 5px 5px rgb(196, 195, 195);
     display: inline-grid;
     background-color: black;
     text-align: center;
