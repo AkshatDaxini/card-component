@@ -11,7 +11,7 @@ const Card = () => {
                         <span>Akshat Daxini</span>
                         <p>Some random things about yourself </p>
                     </div>
-                    <a href="https://akshatdaxiniportfolio.netlify.app/"><button className="btn-portfolio">Portfolio</button></a>
+                    <a href="https://akshat-daxini.netlify.app/"><button className="btn-portfolio">Portfolio</button></a>
                 </div>
             </div>
 
@@ -22,7 +22,7 @@ const Card = () => {
                         <span>Divya</span>
                         <p>Some random things about yourself </p>
                     </div>
-                    <a href="https://akshatdaxiniportfolio.netlify.app/"><button className="btn-portfolio">Portfolio</button></a>
+                    <a href="https://akshat-daxini.netlify.app/"><button className="btn-portfolio">Portfolio</button></a>
                 </div>
             </div>
         </div>
